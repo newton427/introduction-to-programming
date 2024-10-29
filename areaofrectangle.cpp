@@ -4,6 +4,7 @@ using namespace std;
 int main() {
     // Variable declaration
     float area, length, width;
+    // prompt user input
     
     // Variable initialization
     length = 8;
