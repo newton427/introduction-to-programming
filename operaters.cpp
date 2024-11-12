@@ -59,7 +59,7 @@ int *ptr = nullptr;
 // Assign a value to the pointer
 ptr = &num1;
 // Output addressof num1
-cout << "Address of num1 = "<< &num1 << endl;
+cout << "Address of" << num1<<"="<< &num1 << endl;
 // Dereference the pointer to get the value at the memory location
 cout << "Value at memory location pointed by ptr = " << *ptr << endl;
 
