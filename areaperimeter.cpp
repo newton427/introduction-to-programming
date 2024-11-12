@@ -13,7 +13,7 @@ int main() {
     // Calculate the perimeter of the triangle
     double perimeter = base + height + hypotenuse;
     
-    // Display the results
+    // Display the area and  the perimeter of the triangle
     cout << "Area of the triangle: " << area << endl;
     cout << "Perimeter of the triangle: " << perimeter << endl;
     
